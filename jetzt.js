@@ -161,10 +161,10 @@ function (a) {
 		},
 		l = {
 			config_version: i,
-			target_wpm: 400,
+			target_wpm: 500,
 			scale: 1,
 			dark: !1,
-			selected_theme: 0,
+			selected_theme: 1,
 			show_message: !1,
 			selection_color: "#FF0000",
 			modifiers: k,
