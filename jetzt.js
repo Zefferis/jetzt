@@ -669,6 +669,7 @@ function (a) {
 		c.view.reader.onKeyDown(function (e) {
 			if (!e.ctrlKey && !e.metaKey) switch (e.keyCode) {
 				case 27:
+				case 192:
 					b(e), c.quit();
 					break;
 				case 38:
